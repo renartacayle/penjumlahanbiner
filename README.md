@@ -1,7 +1,3 @@
-Tentu, Ren. Karena ini untuk tugas kuliah Teknik Informatika sekaligus membawa nama "RENA SHOP", kita buat README yang terlihat profesional, rapi, dan punya karakter.
-
-Berikut adalah draf README.md yang bisa langsung kamu copy-paste ke repositori GitHub-mu:
-
 🧮 Multi-Basis Calculator (Rena Shop Edition)
 Program kalkulator berbasis CLI (Command Line Interface) yang dirancang untuk membantu konversi dan penjumlahan antar berbagai basis bilangan. Program ini dilengkapi dengan fitur animasi proses untuk memvisualisasikan bagaimana komputer melakukan penjumlahan biner di tingkat rendah.
 
